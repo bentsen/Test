@@ -21,5 +21,16 @@ alien has teeth exactly like yours, and is as smart as you, but it needs a clear
 toothpaste with your left hand; turn the cap
 anti-clockwise)
 
+step 1. Gather the following items toothbrush, toothpaste.
+step 2. Take the toothpaste in your right hand, and then remove the screw cap with your left hand.
+step 3. Now take the toothbrush with your left hand and put toothbrush with your right hand on the brush.
+step 4. You are now done with the toothbrush, so put it back down.
+step 5. Rinse the toothbrush with water, and put it in your mouth.
+step 6. Brush in circles in two minuttes.
+step 7. Spit out toothpaste from mouth.
+step 8. Put water from sink in mouth to clean, and then spit out.
+step 9. Clean toothbrush with water from sink.
+step 10. You are now done, gz wp you can now brush your teeth!
+
 
 
