@@ -35,9 +35,9 @@ anti-clockwise)
 ## 2 TWO KATAS 
 Complete the following two katas using TDD. Make sure to follow the TDD mantra,
 “red-green-refactor”:
-• Red: Write a failing test.
-• Green: Write the smallest implementation to make your test pass.
-• Refactor: Make the necessary refactoring to the implementation and tests, in
+1. Red: Write a failing test.
+2. Green: Write the smallest implementation to make your test pass.
+3. Refactor: Make the necessary refactoring to the implementation and tests, in
 order to remove code redundancy
 
 VIEW CODE FOR ANSWER
