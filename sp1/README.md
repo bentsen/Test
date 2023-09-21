@@ -16,6 +16,10 @@ reasons for the man not dying.
 5. The woman did not aim for the man, but another woman behind him.
 
 ### 1.2 ALIEN
+An alien meets you and it asks you to teach it how to brush its teeth. Assume that the
+alien has teeth exactly like yours, and is as smart as you, but it needs a clear step-bystep instruction. List the steps. Be as detailed as you can. (Example: Hold the
+toothpaste with your left hand; turn the cap
+anti-clockwise)
 
 
 
