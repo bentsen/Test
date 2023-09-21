@@ -32,5 +32,13 @@ anti-clockwise)
 9. Clean toothbrush with water from sink.
 10. You are now done, gz wp you can now brush your teeth!
 
+## 2 TWO KATAS 
+Complete the following two katas using TDD. Make sure to follow the TDD mantra,
+“red-green-refactor”:
+• Red: Write a failing test.
+• Green: Write the smallest implementation to make your test pass.
+• Refactor: Make the necessary refactoring to the implementation and tests, in
+order to remove code redundancy
 
+VIEW CODE FOR ANSWER
 
