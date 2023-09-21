@@ -42,3 +42,12 @@ order to remove code redundancy
 
 VIEW CODE FOR ANSWER
 
+## 3 GIVE YOUR THOUGHTS ON TDD 
+Write your notes (in a readme file) regarding the TDD process, reflecting on the
+following questions.
+
+* What was positive and good about using TDD?
+* What was annoying or difficult?
+* What surprised you?
+* Did TDD help you write some tests you wouldn’t otherwise have thought of?
+
