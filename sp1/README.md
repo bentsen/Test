@@ -47,10 +47,15 @@ Write your notes (in a readme file) regarding the TDD process, reflecting on the
 following questions.
 
 * What was positive and good about using TDD?
-    
+    - It may have improved my code quality witch and encouraged me to write more clean, modular, and well-structured code.
+    - It also ensures that my code functions were correctly and reliably.
 * What was annoying or difficult?
     - It was hard to get used to writing the test before the actual code, and also a little annoying in the beginning.
+    - In the start it felt like it took more time to get to the same place, then without writing test.
 * What surprised you?
-    
+    - It supried me that the test are writtin before the actual testet code.
+    - That TDD encourages developers to start with writing the most simple solution for the test after in code. And then scale op after.
+    - In the start TDD appeareed very slow, because of the time spent writing test upfront. But i could already fell the possible increased productivity TDD could have in the long run.
 * Did TDD help you write some tests you wouldn’t otherwise have thought of?
+    - It helped me think about unthinkable inputs a funciton may get. My function asked for 2 numbers, but what would the function to if it didnt get these types.
 
