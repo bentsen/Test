@@ -49,7 +49,7 @@ following questions.
 * What was positive and good about using TDD?
     
 * What was annoying or difficult?
-    It was hard to get used to writing the test before the actual code, and also a little annoying in the beginning.
+    - It was hard to get used to writing the test before the actual code, and also a little annoying in the beginning.
 * What surprised you?
     
 * Did TDD help you write some tests you wouldn’t otherwise have thought of?
