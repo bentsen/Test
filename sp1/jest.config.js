@@ -5,10 +5,6 @@ module.exports = {
   transform: {
     "^.+.ts$": "ts-jest",
   },
-  testRegex: "(/tests/.*|(.|/)(test|spec)).ts$",
-  globals: {
-    "ts-jest": {
-      tsconfig: "tsconfig.json",
-    },
-  },
+  testRegex: "(/tests/.*|(.|/)(test|spec|steps)).ts$",
+  globals: { "ts-jest": { tsconfig: "tsconfig.json" } },
 };
