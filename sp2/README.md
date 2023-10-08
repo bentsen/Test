@@ -21,6 +21,4 @@ The Therac-25 was a radiation therapy machine produced by Atomic Energy of Canad
 ### 1.Reverse string (aBc -> cBa)
 ### 2.Reverse string (aBc -> cBa)
 ### 3.Reverse string (aBc -> cBa)
-### Don’t use any built-in string utility – create your own. Remember, the exercise here is to
-use BDD, not to deliver a working utility without tests. If there are no tests in the
-solution, it won’t be accepted. 
+### Don’t use any built-in string utility – create your own. Remember, the exercise here is touse BDD, not to deliver a working utility without tests. If there are no tests in thesolution, it won’t be accepted. 
