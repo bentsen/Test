@@ -1,7 +1,7 @@
 import { reverseString } from "../utils/reverseString";
 import { defineFeature, loadFeature } from "jest-cucumber";
 
-const feature = loadFeature("./features/romanConverter.feature");
+const feature = loadFeature("./stringUtility/features/reverseString.feature");
 
 let normalString: string;
 let reversedString: string;
@@ -12,11 +12,11 @@ defineFeature(feature, (test) => {
       normalString = string;
     });
 
-    when("When I convert it to be reversed", () => {
+    when("I convert it to be reversed", () => {
       reversedString = reverseString(normalString);
     });
 
-    then(/^Then I should get (.+)$/, (expectedCapitalizedString: string) => {
+    then(/^I should get (.+)$/, (expectedCapitalizedString: string) => {
       expect(reversedString).toBe(expectedCapitalizedString);
     });
   });
