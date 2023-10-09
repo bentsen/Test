@@ -87,7 +87,7 @@ I have chossen Sinon and jest wich are commonly used frameworks used for mocking
 
 #### Preference
 
-Jest is my preference since it better when starting a new TS project and want a more integrated teesting solution. It has a quick setup and a very simplified test writing and execution.
+Jest is my preference since it better when starting a new TS project and want a more integrated teesting solution. It has a quick setup and a very simplified test writing and execution. But ultimatly the choice would depend my projects specific needs. 
 
 
 
