@@ -26,7 +26,7 @@ The Therac-25 was a radiation therapy machine produced by Atomic Energy of Canad
 View folder stringUtility for this assignment
 
 ## 2.2 BOWLING GAME KATA 
-
+### Complete the Bowling Game Kata using BDD
 view folder bowling for this assignment
 
 # 3 Investigation Of Tools
