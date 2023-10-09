@@ -31,6 +31,7 @@ view folder bowling for this assignment
 
 # 3 Investigation Of Tools
 ## 3.1 JUNIT 5 
+### Investigate JUnit 5 (Jupiter). Explain the following, and how they are useful. 
 1. @Tag
    - @Tag allows you to categorize your tests using user-defined tags or labels.
    - Useful for organizing the selectively running teests based on specific criteria
@@ -60,4 +61,5 @@ view folder bowling for this assignment
    - Useful for skipping tests when specific conditions are not met, without causing test failures.
 
 ## 3.2 MOCKING FRAMEWORKS 
+### Investigate mocking frameworks for your preferred language. Choose at least two frameworks, and answer the questions. (One could be Mockito, which we saw in class.) 
 
