@@ -63,3 +63,33 @@ view folder bowling for this assignment
 ## 3.2 MOCKING FRAMEWORKS 
 ### Investigate mocking frameworks for your preferred language. Choose at least two frameworks, and answer the questions. (One could be Mockito, which we saw in class.) 
 
+I have chossen Sinon and jest wich are commonly used frameworks used for mocking in Typescript
+
+#### Similarities 
+
+1. Mocking Capabilities:
+   - Both Sinon and Jest provide robust mocking capabillities, allowing you to create spies, stubs, and mocks for functions and objects.
+   - They both enable you to intercept function calls and track their behavior during tests.
+2. Asynchronous Testing:
+   - Sinon and Jest offer support for testing asynchronous code and mocking timers, making it possible to test code that invlolves promises, callbacks and timeouts.
+
+#### Differences
+
+1. Integration:
+   - Sinon is often used in conjunction with other test runners like mocha or jasmine. Its a dedicated mocking library rather than a complete testing framwork.
+   - Jest is a comprehensive testing framwork that includes mocking capabillites out of the box. It provides a more integrated testing experience.
+2. Syntax:
+   - Sinon typically uses a more verbose syntax for creating spies and stubs. You need to explicitly specify which functions or methods you want to mock.
+   - Jest offer a simpler and more concise mocking API. It automatically mocks modules and provides a shorter syntax for creating spies and mocks.
+3. Assertions:
+   - Jest includes its assertion library, making it convenient for writing and running tests. It provides built-in matchers and features like snapshot testing.
+   - Sinson focuses primarily on mocking and spying and dosent include a built-in assertion library.
+
+#### Preference
+
+Jest is my preference since it better when starting a new TS project and want a more integrated teesting solution. It has a quick setup and a very simplified test writing and execution.
+
+
+
+
+
